@@ -1,5 +1,5 @@
-### I enjoy a good challenge
-
+### I enjoy a good challenge!
+## I'm hoping to build up my knowledge using Github
 
 - 🔭 I’m currently working on building a Demand Forecasting Model for a manufacturing company
 - 🌱 I’m currently learning time series analysis
