@@ -1,4 +1,4 @@
-### I enjoy a good challenge!
+### I enjoy a challenging data problem.
 ## I'm hoping to build up my knowledge using Github
 
 - 🔭 I’m currently working on building a Demand Forecasting Model for a manufacturing company
