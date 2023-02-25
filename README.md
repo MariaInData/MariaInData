@@ -1,5 +1,5 @@
 ### I enjoy a challenging data problem!
-<img width="336" alt="image" src="https://user-images.githubusercontent.com/125685678/221373488-7fc9145b-db3a-42cf-85da-9d409a748882.png" src="drawing.jpg" alt="drawing" width="1000" length = '500'/>  
+<img width="1048" alt="image" src="https://user-images.githubusercontent.com/125685678/221375931-2be61538-95de-4219-b48a-e7714e5a042e.png">    
 
 *Here's a look of the skills I'm trying to develop further*  
 
