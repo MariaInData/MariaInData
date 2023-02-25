@@ -6,7 +6,7 @@
 
 ## I'm hoping to build my knowledge using Github
 
-- 🔭 I’m currently working on building a Demand Forecasting Model for a manufacturing company
+- 🔭 I’m currently working on building a 3 month Demand Forecasting Model for a manufacturing company
 - 🌱 I’m currently learning about Network Structure and Personalization
 - 🤔 I’m looking for help with learning to build models from scratch
 - 💬 Ask me about my data analytics journey
