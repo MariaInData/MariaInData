@@ -1,5 +1,5 @@
 ### I enjoy a challenging data problem!
-<"https://user-images.githubusercontent.com/125685678/221372620-03421a01-d661-4926-b238-a00d813366b3.png" width = "250" height = "250"/> 
+<img width="336" alt="image" src="https://user-images.githubusercontent.com/125685678/221373488-7fc9145b-db3a-42cf-85da-9d409a748882.png">
 *Here's a look of the skills I'm trying to develop further*
 ## I'm hoping to build up my knowledge using Github
 
