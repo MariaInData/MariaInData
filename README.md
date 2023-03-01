@@ -16,9 +16,11 @@
 
 
 ## Summary of my Repositories
-- Airline Customer Clustering and Flight Analysis | Python, R (PCA, Clustering, Propensity Score Matching)
+- Airline Customer Clustering and Flight Analysis | Python, R (PCA, K-Means)
+- Test Performance Disparities | Python, R (K-Means, Propensity Score Matching, Regression)
 - LightGBM Repayment Capabilities | Python (LightGBM)
 - Donations From Media Channels | SQL, R (Regression)
 - AWS Textract: Extract Data From Documents | Python (Big Data)
+
 <!--
 **MariaInData/MariaInData** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
