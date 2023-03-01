@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on building a 3 month Demand Forecasting Model for a manufacturing company
 - 🌱 I’m currently learning about Network Structure and Personalization
 - 🤔 I’m looking for help with learning to build models from scratch
-- 📫 How to reach me: moymarias@gmail.com
+- 📫 How to reach me: https://www.linkedin.com/in/maria-moy
 
 
 ## Summary of my repositories
