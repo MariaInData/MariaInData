@@ -22,6 +22,6 @@
 - Donations From Media Channels | SQL, R (Regression)
 - AWS Textract: Extract Data From Documents | Python (Big Data)
 - Workout Analysis Dashboard | Python (XML cleaning, Dashboard)
-
+- Minneapolis Crime Rate | Python (Time Series Analysis)
 <!--
 **MariaInData/MariaInData** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
