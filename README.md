@@ -1,4 +1,4 @@
-### I enjoy a challenging data problem!
+# I enjoy a challenging data problem!
 <p align="center">
   <img width="1048" alt="image" src="https://user-images.githubusercontent.com/125685678/221375931-2be61538-95de-4219-b48a-e7714e5a042e.png">    
 </p>  
