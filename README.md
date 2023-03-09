@@ -23,5 +23,6 @@
 - AWS Textract: Extract Data From Documents | Python (Big Data)
 - Workout Analysis Dashboard | Python, Looker Studio (XML cleaning, Dashboard)
 - Minneapolis Crime Rate | Python, R (Time Series Analysis)
+- Twitter Sentiment Analysis | Python, SQL, Databricks (Naive Bayes, PySpark)
 <!--
 **MariaInData/MariaInData** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
