@@ -16,7 +16,7 @@
 
 
 ## Summary of my repositories
-- Airline Customer Clustering and Flight Analysis | Python, R (PCA, K-Means)
+- Airline Customer Clustering and Flight Analysis | Python, R, Tableau (PCA, K-Means)
 - Test Performance Disparities | Python, R (K-Means, Propensity Score Matching, Regression)
 - LightGBM Repayment Capabilities | Python (LightGBM)
 - Donations From Media Channels | SQL, R (Regression)
