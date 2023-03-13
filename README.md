@@ -24,5 +24,6 @@
 - Workout Analysis Dashboard | Python, Looker Studio (XML cleaning, Dashboard)
 - Minneapolis Crime Rate | Python, R (Time Series Analysis, Forecasting (ARIMA, Linear Regression, ARIMA + Linear Regression) )
 - Twitter Sentiment Analysis | Python, SQL, Databricks (Naive Bayes, PySpark)
+- ExplAIner Dashboard | Python
 <!--
 **MariaInData/MariaInData** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
